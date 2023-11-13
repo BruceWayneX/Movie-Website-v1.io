@@ -1,3 +1,3 @@
 # Movie-Website-v1.io
-Sitio web sobre el mundo del septimo arte 
+Website about the world of the seventh art
 https://brucewaynex.github.io/Movie-Website-v1.io/
