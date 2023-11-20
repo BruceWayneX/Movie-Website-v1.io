@@ -2,7 +2,7 @@
 Website about the world of the seventh art
 https://brucewaynex.github.io/Movie-Website-v1.io/
 
-Welcome to Movies streaming, your ultimate destination for a cinematic experience that transcends boundaries! Crafted using HTML, CSS, and JavaScript, CineFlix Hub is your go-to platform for everything related to movies, series, and streaming.
+Welcome to Movies streaming, your ultimate destination for a cinematic experience that transcends boundaries! Crafted using HTML, CSS, and JavaScript,  Movies streaming is your go-to platform for everything related to movies, series, and streaming.
 
 PREVIEW
 
